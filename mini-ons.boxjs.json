@@ -1,0 +1,24 @@
+{
+  "id": "mini-ons.app.sub",
+  "name": "mini-ons应用订阅",
+  "author": "@mini-ons",
+  "icon": "",
+  "repo": "",
+  "apps": [
+    {
+      "id": "jd_seckill",
+      "name": "jd_seckill",
+      "keys": [
+        "cookieLong",
+        "eid",
+        "fp",
+        "waitTime1",
+        "waitTime2"
+      ],
+      "author": "@mini-ons",
+      "repo": "",
+      "script": "",
+      "icons": []
+    }
+  ]
+}

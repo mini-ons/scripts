@@ -13,7 +13,8 @@
         "eid",
         "fp",
         "waitTime1",
-        "waitTime2"
+        "waitTime2",
+        "waitTime3"
       ],
       "author": "@mini-ons",
       "repo": "",

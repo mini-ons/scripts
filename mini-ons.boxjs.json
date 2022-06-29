@@ -16,6 +16,8 @@
         "waitTime2",
         "waitTime3"
       ],
+      "settings": [
+        { "id": "debuggingMode", "name": "调试模式", "val": true, "type": "boolean", "desc": "调试开关" },
       "author": "@mini-ons",
       "repo": "",
       "script": "",

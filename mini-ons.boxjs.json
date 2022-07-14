@@ -9,7 +9,9 @@
       "id": "jd_seckill",
       "name": "jd_seckill",
       "keys": [
+        "cookie",
         "cookieLong",
+        "keywordList",
         "eid",
         "fp",
         "waitTime1",

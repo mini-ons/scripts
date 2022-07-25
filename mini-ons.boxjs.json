@@ -18,8 +18,8 @@
       "repo": "",
       "script": "",
       "icons": [
-        "https://raw.githubusercontent.com/mini-ons/scripts/main/setting.PNG",
-        "https://raw.githubusercontent.com/mini-ons/scripts/main/setting.PNG"
+        "https://raw.githubusercontent.com/mini-ons/scripts/main/locked.png",
+        "https://raw.githubusercontent.com/mini-ons/scripts/main/locked.png"
       ]
     },
     {
@@ -36,8 +36,8 @@
       "repo": "",
       "script": "",
       "icons": [
-        "https://raw.githubusercontent.com/mini-ons/scripts/main/locked.PNG",
-        "https://raw.githubusercontent.com/mini-ons/scripts/main/locked.PNG"
+        "https://raw.githubusercontent.com/mini-ons/scripts/main/setting.png",
+        "https://raw.githubusercontent.com/mini-ons/scripts/main/setting.png"
       ]
     }
   ]

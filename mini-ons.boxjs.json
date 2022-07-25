@@ -2,19 +2,29 @@
   "id": "mini-ons.app.sub",
   "name": "mini-ons应用订阅",
   "author": "@mini-ons",
-  "icon": "",
+  "icon": "https://raw.githubusercontent.com/mini-ons/scripts/main/minions_pic.JPG",
   "repo": "",
   "apps": [
     {
-      "id": "jd_seckill",
-      "name": "jd_seckill",
+      "id": "seckilll",
+      "name": "秒杀参数",
       "keys": [
         "cookie",
         "cookieLong",
+        "eid",
+        "fp"
+      ],
+      "author": "@mini-ons",
+      "repo": "",
+      "script": "",
+      "icons": ["https://raw.githubusercontent.com/mini-ons/scripts/main/setting.PNG"]
+    },
+    {
+      "id": "seckill",
+      "name": "秒杀变量",
+      "keys": [
         "keywordList",
         "analysis",
-        "eid",
-        "fp",
         "waitTime1",
         "waitTime2",
         "waitTime3"
@@ -22,7 +32,7 @@
       "author": "@mini-ons",
       "repo": "",
       "script": "",
-      "icons": []
+      "icons": ["https://raw.githubusercontent.com/mini-ons/scripts/main/locked.PNG"]
     }
   ]
 }

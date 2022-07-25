@@ -17,7 +17,10 @@
       "author": "@mini-ons",
       "repo": "",
       "script": "",
-      "icons": ["https://raw.githubusercontent.com/mini-ons/scripts/main/setting.PNG"]
+      "icons": [
+        "https://raw.githubusercontent.com/mini-ons/scripts/main/setting.PNG",
+        "https://raw.githubusercontent.com/mini-ons/scripts/main/setting.PNG"
+      ]
     },
     {
       "id": "seckill",
@@ -32,7 +35,10 @@
       "author": "@mini-ons",
       "repo": "",
       "script": "",
-      "icons": ["https://raw.githubusercontent.com/mini-ons/scripts/main/locked.PNG"]
+      "icons": [
+        "https://raw.githubusercontent.com/mini-ons/scripts/main/locked.PNG",
+        "https://raw.githubusercontent.com/mini-ons/scripts/main/locked.PNG"
+      ]
     }
   ]
 }

@@ -12,7 +12,8 @@
         "cookie",
         "cookieLong",
         "eid",
-        "fp"
+        "fp",
+        "analysis"
       ],
       "author": "@mini-ons",
       "repo": "",
@@ -26,7 +27,6 @@
       "name": "秒杀变量",
       "keys": [
         "keywordList",
-        "analysis",
         "waitTime1",
         "waitTime2",
         "waitTime3"
